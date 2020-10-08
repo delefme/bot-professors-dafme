@@ -40,4 +40,9 @@ Cuando el bot haya avisado que el alumno ya no está disponible, tiene que dar l
 Además, se tendría que loggear que el profesor X ha recibido un alumno. 
 Si puede ser en una spreadsheet, mejor.
 Si no, que el bot tenga un grupo con los organizadores y nos vaya avisando "NOMBRE PROFESOR - ALUMNO".
-Así tenemos constancia de quién nos tendrá que pagar su primera clase.
+Así tenemos constancia de quién nos tendrá que pagar su primera clase (es así como financiamos la campaña).
+
+## Paso 4: gestión de problemas
+Se tiene que también añadir una opción de respuesta al bot cuando un alumno no funciona.
+Es más común de lo que parece.
+Que entonces se loggée también que no ha funcionado para X profesor y que no se cuente cómo buena.
