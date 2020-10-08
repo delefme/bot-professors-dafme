@@ -6,33 +6,25 @@ Una vez llegue el mail con la solicitud del alumno, queremos que este sea enviad
 El formato del mail es cómo se muestra en el ejemplo:
 ```xml
 <dl>
-        
-            <dt>Su nombre</dt>
-            <dd>Andreu</dd><span class="im">
-        
-        
-            <dt>Su número de teléfono de contacto</dt>
-            </span><dd>+34 666 666 666</dd><span class="im">
-        
-        
-            <dt>¿Qué estudios está cursando?</dt>
-            <dd>Universidad</dd>
-        
-        
-            <dt>¿En qué curso está usted?</dt>
-            <dd>Primero</dd>
-        
-        
-            <dt>En qué zona(s) preferiría recibir las clases?</dt>
-            </span><dd>Sarrià - Sant Gervasi</dd><span class="im">
-        
-        
-            <dt>¿Aceptaría hacer clases a distancia?</dt>
-            <dd>0</dd>
-        
-        
-            <dt>Comentarios</dt>
-            </span><dd>Quisiera clases de refuerzo de las asignaturas de cálculo y álgebra, que son las que más me cuestan de momento.</dd>
-        
-    </dl>
+    <dt>Su nombre</dt>
+    <dd>Andreu</dd><span class="im">
+
+    <dt>Su número de teléfono de contacto</dt>
+    </span><dd>+34 666 666 666</dd><span class="im">
+
+    <dt>¿Qué estudios está cursando?</dt>
+    <dd>Universidad</dd>
+
+    <dt>¿En qué curso está usted?</dt>
+    <dd>Primero</dd>
+
+    <dt>En qué zona(s) preferiría recibir las clases?</dt>
+    </span><dd>Sarrià - Sant Gervasi</dd><span class="im">
+
+    <dt>¿Aceptaría hacer clases a distancia?</dt>
+    <dd>0</dd>
+
+    <dt>Comentarios</dt>
+    </span><dd>Quisiera clases de refuerzo de las asignaturas de cálculo y álgebra, que son las que más me cuestan de momento.</dd>
+</dl>
 ```
