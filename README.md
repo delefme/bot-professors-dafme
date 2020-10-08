@@ -3,7 +3,7 @@ Queremos un bot que automatize el proceso de recibir una solicitud de alumno y h
 
 ## Paso 1: de Gmail a WhatsApp
 Una vez llegue el mail con la solicitud del alumno, queremos que este sea enviado por privado a una lista de contactos (los profesores).
-El formato del mail es cómo se muestra en el ejemplo:
+Los correos que nos interesan son los que tienen como asunto "Demanda alumno" o "Demanda alumne". El formato del mail es cómo se muestra en el ejemplo:
 ```xml
 <dl>
     <dt>Su nombre</dt>
