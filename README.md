@@ -5,7 +5,9 @@ Queremos un bot que automatize el proceso de recibir una solicitud de alumno y h
 ### Paso 1: de Gmail a WhatsApp
 Una vez llegue el mail con la solicitud del alumno, queremos que este sea enviado por privado a una lista de contactos (los profesores).
 Los correos que nos interesan son los que tienen como asunto "Demanda alumno" o "Demanda alumne".
+
 ![Lista de correos con diferentes asuntos](./img/README/borsadeprofesmail.png "Correo de la BPPDAFME")
+
 El formato del mail es cómo se muestra en el ejemplo:
 ```xml
 <dl>
@@ -42,7 +44,9 @@ Una vez el bot vea que un profesor diga que lo quiere para él, tiene que avisar
 Cuando el bot haya avisado que el alumno ya no está disponible, tiene que dar los datos de contacto a el profesor para que él lo pueda abrir.
 Además, se tendría que loggear que el profesor X ha recibido un alumno. 
 Si puede ser en una spreadsheet, mejor. Nosotros tenemos este para ir guardando a quién le damos los alumnos.
+
 ![Google Spreadsheet con información sobre los profesores y sobre cuántos alumnos tienen](./img/README/excel-bppdafme.png "Google Spreadsheet con los alumnos")
+
 Si no, que el bot tenga un grupo con los organizadores y nos vaya avisando "NOMBRE PROFESOR - ALUMNO".
 Así tenemos constancia de quién nos tendrá que pagar su primera clase (es así como financiamos la campaña).
 
